@@ -1,7 +1,4 @@
 
-
-![turntable](https://user-images.githubusercontent.com/37382927/112429973-bc12e680-8cfa-11eb-9bfc-315fbcffba9b.jpg)
-
 # Spoti
 
 This Python code enables the user to input a Spotify playlist URI via command line.
