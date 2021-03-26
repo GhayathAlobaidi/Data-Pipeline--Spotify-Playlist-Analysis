@@ -2,7 +2,7 @@
 
 # Spoti
 
-This Python code enables the user to input a Spotify playlist URI via command line.
+This Python script enables the user to input a Spotify playlist URI via command line.
 
 Upon verification from Spotify's API, song features are downloaded, 
 converted into a Pandas Dataframe and then saved into an Excel Spreadsheet. 
