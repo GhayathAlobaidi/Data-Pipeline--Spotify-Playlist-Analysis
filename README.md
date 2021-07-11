@@ -1,6 +1,6 @@
 <img width="1250" alt="Screen Shot 2021-03-24 at 11 46 48 PM" src="https://user-images.githubusercontent.com/37382927/112430379-4bb89500-8cfb-11eb-853f-40848ee28a41.png">
 
-# Data ETL: Spotify Playlist Analysis
+# Data Pipeline: Spotify Playlist Analysis
 
 This Python script enables the user to input a Spotify playlist URI via command line. Please create a Spotify Developer account to retrieve access keys which will be used with this script.
 
