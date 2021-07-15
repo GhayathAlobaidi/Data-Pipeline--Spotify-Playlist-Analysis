@@ -4,7 +4,7 @@
 
 This Python script enables the user to input a Spotify playlist URI via command line. Please create a Spotify Developer account to retrieve access keys which will be used with this script.
 
-Upon verification from Spotify's API, song features are downloaded, 
+Upon verification and connecting with Spotify's API, song features are downloaded, 
 converted into a Pandas Dataframe and then saved into an Excel Spreadsheet. 
 
 Using Python's MatPlotlib, the results are calculated, graphed and presented in a 3D model.
