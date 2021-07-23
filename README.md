@@ -5,7 +5,7 @@
 This Data Pipeline utilizing a Python script enables the user to input a Spotify playlist URI via command line. Please create a Spotify Developer account to retrieve access keys which will be used with this script.
 
 Upon verification and connecting with Spotify's API, song features are downloaded, 
-converted into a Pandas Dataframe and then saved into an Excel Spreadsheet. 
+converted into a Pandas Dataframe and then saved into an Excel Spreadsheet.  The features could also be efficiently saved into RDBMS using SQL.
 
 Using Python's MatPlotlib, the results are calculated, graphed and presented in a 3D model.
 
