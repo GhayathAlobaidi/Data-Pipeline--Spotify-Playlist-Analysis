@@ -2,7 +2,7 @@
 
 # Data Pipeline: Spotify Playlist Analysis
 
-This Data Pipeline utilizing a Python script enables the user to input a Spotify playlist URI via command line. Please create a Spotify Developer account to retrieve access keys which will be used with this script.
+This Data Pipeline utilizing a Python script enables the user to input a Spotify playlist URI via the shell command line. Please create a Spotify Developer account to retrieve access keys which will be used with this script.
 
 Upon verification and connecting with Spotify's API, song features are downloaded, 
 converted into a Pandas Dataframe and then saved into an Excel Spreadsheet.  The features could also be efficiently exported and saved into RDBMS using SQL.
